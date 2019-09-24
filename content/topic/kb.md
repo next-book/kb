@@ -1,9 +1,10 @@
 ---
 title: How to use this KB
+howto: (This is an example of a "howto" parameter content, see below.)
 ---
-This page should cover all conventions as a need for them emerges.
+This knowledge base contains organized public info used by the next-book team. KB is for both information about next-book and its context.
 
-Every page can have a "howto" section where some contextual specifics are explained. (You can see it on the homepage.)
+This general "how to" page should cover all conventions as a need for them emerges. Every page can have a "howto" parameter where some contextual specifics are explained.
 
 ## Structure
 

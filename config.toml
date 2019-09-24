@@ -1,0 +1,6 @@
+baseURL = "https://next-book-kb.netlify.com"
+defaultContentLanguage = "en"
+title = "next-book knowledge base"
+
+[blackfriday]
+  fractions = false

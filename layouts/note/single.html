@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <p class="crumbs"><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a> &rarr;</p>
+  <h1>{{ .Title }}</h1>
+  <p>People:
+
+    {{ $len := (len .Params.people) }}
+    {{ range $index, $person := sort .Params.people }}
+      {{ $person }}
+      {{- if ne (add $index 1) $len }},{{ end }}
+    {{ end }}
+  </p>
+
+  {{ partial "howto.html" . }}
+
+  {{ .Content }}
+{{ end }}

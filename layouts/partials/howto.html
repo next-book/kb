@@ -1,0 +1,7 @@
+{{ if isset .Params "howto" }}
+  <section class="howto">
+    <h2>How to use this page?</h2>
+
+    {{ .Params.howto | markdownify }}
+  </section>
+{{ end }}

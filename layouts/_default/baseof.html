@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ .Title }}</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto:400,400i,700,700i&display=swap&subset=latin-ext" rel="stylesheet">
+
+  {{ $style := resources.Get "styles/style.scss" | toCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1><a href="/">next-book knowledge base</a></h1>
+    </header>
+
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+
+    <footer>
+      <p><a href="https://github.com/next-book/kb/edit/master/content/{{ .File.Path }}">
+        Edit this page on Github
+      </a></p>
+    </footer>
+  </div>
+</body>
+</html>
+
+
+
+
+
+

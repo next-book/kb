@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <h1>Home</h1>
+  
+  {{ partial "howto.html" . }}
+  
+  <h2>Topics</h2>
+  <ul>
+    {{ range where (where .Site.Pages "Section" "topic") "Kind" "page" }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  </ul>
+
+
+  <h2>Notes</h2>
+  <ul>
+    {{ range where (where .Site.Pages "Section" "note") "Kind" "page" }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        ({{ .Date.Format "2006-01-02"}})
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

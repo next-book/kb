@@ -3,6 +3,8 @@ title: Session 01
 date: 2019-09-23
 people: [Josef Kocurek, Matěj Málek, Honza Martinek, Lukáš Porsche]
 ---
+Edits: added Lukáš’s time allocation
+
 # Intro and expectations
 
 ### Expectations
@@ -20,7 +22,7 @@ people: [Josef Kocurek, Matěj Málek, Honza Martinek, Lukáš Porsche]
 ### Environment and rhythm
 
 - All-team meeting every other friday (next: October 11, 9am)
-- Time allocation (per week): Honza 24h, Josef 8h, Matěj 8h
+- Time allocation (per week): Honza 24h, Josef 8h, Matěj 8h, Lukáš 5h
 - KB on the web (**this 😉**), set up by Honza
 - team communication and planning on Basecamp, set up by Josef
 - bi-weekly newsletter (after every all-team meetup)

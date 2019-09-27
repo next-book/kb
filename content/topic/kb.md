@@ -1,5 +1,5 @@
 ---
-title: How to use this KB
+title: → How to use this KB
 howto: (This is an example of a "howto" parameter content, see below.)
 ---
 This knowledge base contains organized public info used by the next-book team. KB is for both information about next-book and its context.

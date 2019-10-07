@@ -1,5 +1,5 @@
 ---
-title: Public information
+title: Public information about next-book
 ---
 All publicly available articles (etc.) about next-book:
 

@@ -1,5 +1,5 @@
 ---
-title: Books
+title: Existing next-books
 ---
 These books were published on next-book platorm so far:
 

@@ -3,9 +3,15 @@ title: Networking
 howto: |
   - Use predefined categories when possible.
 ---
+## Events
+
+- [Reading in a Digital Environment](https://www.uni-regensburg.de/bibliothek/veranstaltungskalender/reading2019/index.html) - International Conference 2019, Regensburg on November 8 (We’ll have a poster there.)
+- [OpenAlt 2019](https://go.ur.de/reading) — Open tech conference in Brno. (We’ll have a talk there.)
+
+
 ## Partners and friends (past and present)
 
-- Nová Beseda (Publishing house; Andrea Slováková, Ľuboš Slovák)
+- Nová Beseda (Publisher; Andrea Slováková, Ľuboš Slovák)
 - Ivana Lukeš Rybanská — collaborator on the original idea of a next-book (now at VŠE Praha)
 - Partners connected via TAČR project realised by Nová Beseda
   - KISK at Masaryk University (Michal Lorenz)
@@ -33,7 +39,7 @@ Potential early cooperations:
 - Kabinet info. studií a knihovnictví
 - Kosmas.cz - early meeting in October \`19 via Nová Beseda
 - Palackého University (met)
-- Take Take Take (publishing house)
+- Take Take Take (publisher)
 
 Funding and support:
 

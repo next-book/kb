@@ -8,11 +8,10 @@ This general "how to" page should cover all conventions as a need for them emerg
 
 ## Structure
 
-There are three main categories of entries:
+These are main categories of entries:
 
 - **notes**: mainly minutes from meetings
 - **topics**: info about a specific aspect gathered in one place
-- **newsletter**: archive of mailings for a wider group of collaborators
 
 ## Editing
 

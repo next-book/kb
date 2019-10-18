@@ -21,10 +21,12 @@
     </main>
 
     <footer>
-      <p><a href="https://github.com/next-book/kb/edit/master/content/{{ .File.Path }}">
+      {{ with .File }}
+      <p><a href="https://github.com/next-book/kb/edit/master/content/{{ .Path }}">
         Edit this page on Github
       </a></p>
     </footer>
+    {{ end }}
   </div>
 </body>
 </html>

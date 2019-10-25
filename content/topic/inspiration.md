@@ -38,3 +38,11 @@ A vision doc about a project that had similar goals (books and magazines in HTML
 - Here’s the final [State-of-project issue](https://github.com/bakerframework/baker/issues/570) on github
 - [Their website](https://web.archive.org/web/20170822122047/http://bakerframework.com/) is available on archive.org
 - They [developed HPub](https://github.com/Simbul/baker/wiki/hpub-specification), a simple open format quite similar to basic file structure of an ePub or next-book
+
+
+## Videos
+
+### Andrew Rhomberg: [Data driven marketing leveraging, Readium for the Cloud](https://youtu.be/odZLn7a0Rts?t=612)
+
+Linked: description of the book previews and interaction methods. [Slides](https://www.edrlab.org/public/slides/dps2019/DPS-s4-1-Rhomberg-Readium.pptx).
+
